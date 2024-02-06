@@ -1,0 +1,10 @@
+MSC : 1                      
+MSC : 3                  
+MSC : 5                          
+MSC : 2              
+MSC : 4                  
+MSC: LEADER                      
+MSC: This is Node 4 confirming Node 3 is the leader                          
+MSC: This is Node 5 confirming Node 3 is the leader          
+MSC: This is Node 1 confirming Node 3 is the leader              
+MSC: This is Node 2 confirming Node 3 is the leader6 processes created
